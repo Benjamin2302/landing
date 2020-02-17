@@ -3,8 +3,12 @@
   color: white;
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   margin: 0px;
-  padding: 150px 40px;
+  padding: 180px 40px;
+  border-radius: 6px;
+
+
 }
 
 
